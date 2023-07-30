@@ -1,0 +1,15 @@
+H:\Examples\FileManagerSample\FileManager.Model\bin\Debug\net6.0\FileManager.Services.deps.json
+H:\Examples\FileManagerSample\FileManager.Model\bin\Debug\net6.0\FileManager.Services.dll
+H:\Examples\FileManagerSample\FileManager.Model\bin\Debug\net6.0\ref\FileManager.Services.dll
+H:\Examples\FileManagerSample\FileManager.Model\bin\Debug\net6.0\FileManager.Services.pdb
+H:\Examples\FileManagerSample\FileManager.Model\bin\Debug\net6.0\FileManager.Core.dll
+H:\Examples\FileManagerSample\FileManager.Model\bin\Debug\net6.0\FileManager.Core.pdb
+H:\Examples\FileManagerSample\FileManager.Model\obj\Debug\net6.0\FileManager.Services.csproj.AssemblyReference.cache
+H:\Examples\FileManagerSample\FileManager.Model\obj\Debug\net6.0\FileManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+H:\Examples\FileManagerSample\FileManager.Model\obj\Debug\net6.0\FileManager.Services.AssemblyInfoInputs.cache
+H:\Examples\FileManagerSample\FileManager.Model\obj\Debug\net6.0\FileManager.Services.AssemblyInfo.cs
+H:\Examples\FileManagerSample\FileManager.Model\obj\Debug\net6.0\FileManager.Services.csproj.CoreCompileInputs.cache
+H:\Examples\FileManagerSample\FileManager.Model\obj\Debug\net6.0\FileManager.Services.csproj.CopyComplete
+H:\Examples\FileManagerSample\FileManager.Model\obj\Debug\net6.0\FileManager.Services.dll
+H:\Examples\FileManagerSample\FileManager.Model\obj\Debug\net6.0\ref\FileManager.Services.dll
+H:\Examples\FileManagerSample\FileManager.Model\obj\Debug\net6.0\FileManager.Services.pdb

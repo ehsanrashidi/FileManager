@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a26bff0c-86a1-4b99-9bb9-a8363a2c85db": {
+      "ProjectGuid": "a26bff0c-86a1-4b99-9bb9-a8363a2c85db",
+      "DisplayName": "FileManager.Host",
+      "ColorIndex": 0
+    },
+    "030860a4-e1f3-4e2c-9c0d-9b6f17345a14": {
+      "ProjectGuid": "030860a4-e1f3-4e2c-9c0d-9b6f17345a14",
+      "DisplayName": "FileManager.Services",
+      "ColorIndex": 1
+    },
+    "c7e4d32a-a086-4d42-bd0d-f8aead542591": {
+      "ProjectGuid": "c7e4d32a-a086-4d42-bd0d-f8aead542591",
+      "DisplayName": "FileManager.Core",
+      "ColorIndex": 2
+    },
+    "73425a86-7d06-46c5-b6b2-ce3b54161d3c": {
+      "ProjectGuid": "73425a86-7d06-46c5-b6b2-ce3b54161d3c",
+      "DisplayName": "FileManager.Controllers",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

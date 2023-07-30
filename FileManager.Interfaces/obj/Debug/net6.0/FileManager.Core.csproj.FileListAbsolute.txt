@@ -1,0 +1,12 @@
+H:\Examples\FileManagerSample\FileManager.Interfaces\bin\Debug\net6.0\FileManager.Core.deps.json
+H:\Examples\FileManagerSample\FileManager.Interfaces\bin\Debug\net6.0\FileManager.Core.dll
+H:\Examples\FileManagerSample\FileManager.Interfaces\bin\Debug\net6.0\ref\FileManager.Core.dll
+H:\Examples\FileManagerSample\FileManager.Interfaces\bin\Debug\net6.0\FileManager.Core.pdb
+H:\Examples\FileManagerSample\FileManager.Interfaces\obj\Debug\net6.0\FileManager.Core.csproj.AssemblyReference.cache
+H:\Examples\FileManagerSample\FileManager.Interfaces\obj\Debug\net6.0\FileManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Examples\FileManagerSample\FileManager.Interfaces\obj\Debug\net6.0\FileManager.Core.AssemblyInfoInputs.cache
+H:\Examples\FileManagerSample\FileManager.Interfaces\obj\Debug\net6.0\FileManager.Core.AssemblyInfo.cs
+H:\Examples\FileManagerSample\FileManager.Interfaces\obj\Debug\net6.0\FileManager.Core.csproj.CoreCompileInputs.cache
+H:\Examples\FileManagerSample\FileManager.Interfaces\obj\Debug\net6.0\FileManager.Core.dll
+H:\Examples\FileManagerSample\FileManager.Interfaces\obj\Debug\net6.0\ref\FileManager.Core.dll
+H:\Examples\FileManagerSample\FileManager.Interfaces\obj\Debug\net6.0\FileManager.Core.pdb

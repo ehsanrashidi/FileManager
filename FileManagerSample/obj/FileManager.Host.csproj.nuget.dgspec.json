@@ -1,0 +1,263 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Examples\\FileManagerSample\\FileManagerSample\\FileManager.Host.csproj": {}
+  },
+  "projects": {
+    "H:\\Examples\\FileManagerSample\\FileManager.Controllers\\FileManager.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Examples\\FileManagerSample\\FileManager.Controllers\\FileManager.Controllers.csproj",
+        "projectName": "FileManager.Controllers",
+        "projectPath": "H:\\Examples\\FileManagerSample\\FileManager.Controllers\\FileManager.Controllers.csproj",
+        "packagesPath": "C:\\Users\\ehsan\\.nuget\\packages\\",
+        "outputPath": "H:\\Examples\\FileManagerSample\\FileManager.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\FileManager.Core.csproj": {
+                "projectPath": "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\FileManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\FileManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\FileManager.Core.csproj",
+        "projectName": "FileManager.Core",
+        "projectPath": "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\FileManager.Core.csproj",
+        "packagesPath": "C:\\Users\\ehsan\\.nuget\\packages\\",
+        "outputPath": "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Examples\\FileManagerSample\\FileManager.Model\\FileManager.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Examples\\FileManagerSample\\FileManager.Model\\FileManager.Services.csproj",
+        "projectName": "FileManager.Services",
+        "projectPath": "H:\\Examples\\FileManagerSample\\FileManager.Model\\FileManager.Services.csproj",
+        "packagesPath": "C:\\Users\\ehsan\\.nuget\\packages\\",
+        "outputPath": "H:\\Examples\\FileManagerSample\\FileManager.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\FileManager.Core.csproj": {
+                "projectPath": "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\FileManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Examples\\FileManagerSample\\FileManagerSample\\FileManager.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Examples\\FileManagerSample\\FileManagerSample\\FileManager.Host.csproj",
+        "projectName": "FileManager.Host",
+        "projectPath": "H:\\Examples\\FileManagerSample\\FileManagerSample\\FileManager.Host.csproj",
+        "packagesPath": "C:\\Users\\ehsan\\.nuget\\packages\\",
+        "outputPath": "H:\\Examples\\FileManagerSample\\FileManagerSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Examples\\FileManagerSample\\FileManager.Controllers\\FileManager.Controllers.csproj": {
+                "projectPath": "H:\\Examples\\FileManagerSample\\FileManager.Controllers\\FileManager.Controllers.csproj"
+              },
+              "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\FileManager.Core.csproj": {
+                "projectPath": "H:\\Examples\\FileManagerSample\\FileManager.Interfaces\\FileManager.Core.csproj"
+              },
+              "H:\\Examples\\FileManagerSample\\FileManager.Model\\FileManager.Services.csproj": {
+                "projectPath": "H:\\Examples\\FileManagerSample\\FileManager.Model\\FileManager.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

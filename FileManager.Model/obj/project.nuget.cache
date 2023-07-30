@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1xUZRIvSRlV/+vWHFjnZwx4xmugHi6I9Yd71G3s6xrYO/yhjIoezwTP/8keXhd/Txln2Vy/2cdPFDAeU59fXQ==",
+  "success": true,
+  "projectFilePath": "H:\\Examples\\FileManagerSample\\FileManager.Model\\FileManager.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ehsan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

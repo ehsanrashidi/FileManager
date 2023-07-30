@@ -1,0 +1,15 @@
+H:\Examples\FileManagerSample\FileManager.Controllers\bin\Debug\net6.0\FileManager.Controllers.deps.json
+H:\Examples\FileManagerSample\FileManager.Controllers\bin\Debug\net6.0\FileManager.Controllers.dll
+H:\Examples\FileManagerSample\FileManager.Controllers\bin\Debug\net6.0\ref\FileManager.Controllers.dll
+H:\Examples\FileManagerSample\FileManager.Controllers\bin\Debug\net6.0\FileManager.Controllers.pdb
+H:\Examples\FileManagerSample\FileManager.Controllers\bin\Debug\net6.0\FileManager.Core.dll
+H:\Examples\FileManagerSample\FileManager.Controllers\bin\Debug\net6.0\FileManager.Core.pdb
+H:\Examples\FileManagerSample\FileManager.Controllers\obj\Debug\net6.0\FileManager.Controllers.csproj.AssemblyReference.cache
+H:\Examples\FileManagerSample\FileManager.Controllers\obj\Debug\net6.0\FileManager.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+H:\Examples\FileManagerSample\FileManager.Controllers\obj\Debug\net6.0\FileManager.Controllers.AssemblyInfoInputs.cache
+H:\Examples\FileManagerSample\FileManager.Controllers\obj\Debug\net6.0\FileManager.Controllers.AssemblyInfo.cs
+H:\Examples\FileManagerSample\FileManager.Controllers\obj\Debug\net6.0\FileManager.Controllers.csproj.CoreCompileInputs.cache
+H:\Examples\FileManagerSample\FileManager.Controllers\obj\Debug\net6.0\FileManager.Controllers.csproj.CopyComplete
+H:\Examples\FileManagerSample\FileManager.Controllers\obj\Debug\net6.0\FileManager.Controllers.dll
+H:\Examples\FileManagerSample\FileManager.Controllers\obj\Debug\net6.0\ref\FileManager.Controllers.dll
+H:\Examples\FileManagerSample\FileManager.Controllers\obj\Debug\net6.0\FileManager.Controllers.pdb
